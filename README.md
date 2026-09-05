@@ -6,10 +6,10 @@ Systems Engineering student based in Durango, México, building and shipping pro
 
 **Featured projects**
 
-- [UINEXUS](https://github.com/gibran564/UINEXUS) — full-stack web app with a CI pipeline (lint, typecheck, unit + integration tests) and a documented test suite (22 test files, 371 passing unit tests).
-- [Urban-Navigator](https://github.com/gibran564/Urban-Navigator) — Next.js application; added CI, dependency and config fixes.
+- [UINEXUS](https://github.com/gibran564/UINEXUS) — full-stack platform (Next.js, TypeScript, AWS, Firebase Auth) with a documented test suite (22 test files, 371 passing unit tests via Vitest).
+- [Urban-Navigator](https://github.com/gibran564/Urban-Navigator) — Next.js web app for urban navigation, deployed on Vercel.
 - [Nexdev](https://github.com/gibran564/Nexdev) — Rust project, clippy-clean, with unit tests and CI running `cargo test`.
-- [admon-c4373](https://github.com/gibran564/admon-c4373) — Firebase/Firestore admin app; fixed a role self-escalation bug, removed exposed API keys, added token validation and CORS hardening.
+- [admon-c4373](https://github.com/gibran564/admon-c4373) — academic web portal (Next.js, TypeScript, Firebase, SQL playground in-browser) for a database administration course.
 
 **Stack**: TypeScript · React · Next.js · Node.js · Python · AWS · Rust · Firebase
 
