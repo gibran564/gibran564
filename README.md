@@ -10,6 +10,7 @@ Systems Engineering student based in Durango, México, building and shipping pro
 - [Urban-Navigator](https://github.com/gibran564/Urban-Navigator) — Next.js web app for urban navigation, deployed on Vercel.
 - [Nexdev](https://github.com/gibran564/Nexdev)  — Rust CLI tool (fuzzy-search project launcher) with CI (clippy + cargo test) and one external contribution merged.
 - [admon-c4373](https://github.com/gibran564/admon-c4373) — academic web portal (Next.js, TypeScript, Firebase, SQL playground in-browser) for a database administration course.
+- [eclipsis-usb](https://github.com/gibran564/eclipsis-usb) — fork of Rufus (GPL-3.0-or-later) with an original React/TypeScript + Tauri/Rust desktop frontend that links Rufus's native USB code; real read-only USB device enumeration, ISO analysis and write/format not connected yet.
 
 **Stack**: TypeScript · React · Next.js · Node.js · Python · AWS · Rust · Firebase
 
