@@ -1,17 +1,43 @@
-### Hi, I'm Christian 👋
+## Christian Gibran Espituñal Villanueva
 
-Junior Software Developer focused on web/full-stack products — React, TypeScript, Next.js and backend/APIs — with additional hands-on experience in Python, AWS, algorithms and developer tooling.
+Junior full-stack software engineer. I build web applications end to end and I test and document what I ship.
 
-Systems Engineering student based in Durango, México, building and shipping projects end-to-end: frontend, backend, CI/CD and testing.
+### About
 
-**Featured projects**
+I work mostly in TypeScript — Next.js and React on the front, Node and Python on the back — and I like problems that go below the web layer: compilers, routing algorithms, terminal tooling. I am finishing my Computer Systems Engineering degree at Instituto Tecnológico de Durango while working as an independent developer, and I have been shipping software since 2022.
 
-- [UINEXUS](https://github.com/gibran564/UINEXUS) — full-stack platform (Next.js, TypeScript, AWS, Firebase Auth) with a documented test suite (22 test files, 371 passing unit tests via Vitest).
-- [Urban-Navigator](https://github.com/gibran564/Urban-Navigator) — Next.js web app for urban navigation, deployed on Vercel.
-- [Nexdev](https://github.com/gibran564/Nexdev)  — Rust CLI tool (fuzzy-search project launcher) with CI (clippy + cargo test) and one external contribution merged.
-- [admon-c4373](https://github.com/gibran564/admon-c4373) — academic web portal (Next.js, TypeScript, Firebase, SQL playground in-browser) for a database administration course.
-- [eclipsis-usb](https://github.com/gibran564/eclipsis-usb) — fork of Rufus (GPL-3.0-or-later) with an original React/TypeScript + Tauri/Rust desktop frontend that links Rufus's native USB code; real read-only USB device enumeration, ISO analysis and write/format not connected yet.
+I also build with AI as a first-class part of my stack: retrieval-augmented generation, multi-agent orchestration and Model Context Protocol servers that expose real tools to agents.
 
-**Stack**: TypeScript · React · Next.js · Node.js · Python · AWS · Rust · Firebase
+### Tech
 
-📫 cegibran@gmail.com
+**Languages** — TypeScript, JavaScript, Python, Rust, C++, SQL
+**Frontend** — React, Next.js, Tailwind CSS
+**Backend** — Node.js, FastAPI, REST APIs, Firebase Auth, Firestore
+**AI / Agents** — LangChain, LangGraph, RAG, Qdrant, Model Context Protocol
+**Cloud / Infrastructure** — AWS (S3, DynamoDB, CloudFront), Vercel, Docker
+**Tooling** — Git, GitHub Actions, Vitest, CMake, Qt
+
+### Selected projects
+
+**[UINexus](https://github.com/gibran564/UINEXUS)** — Next.js, TypeScript, AWS, Firebase Auth, Vitest
+Platform where students publish their own web projects, isolating published content from the platform through a two-origin architecture. 371 unit tests across 22 files, with architecture, security and accessibility documentation.
+
+**[InLanD Compiler](https://github.com/gibran564/InLanD_Compiler)** — C++17, Qt, CMake
+Compiler for a custom imperative language: DFA lexer, LL(1) parser, semantic analysis, quadruple IR, seven optimization passes and assembly export, with a Qt GUI for inspecting each stage.
+
+**[Nexdev](https://github.com/gibran564/Nexdev)** — Rust
+Terminal project launcher with fuzzy search, git preview, stack detection and editor integration. Installers for Windows, Linux/macOS and Nix; CI runs clippy and cargo test.
+
+**[Urban Navigator](https://github.com/gibran564/Urban-Navigator)** — Next.js, TypeScript, Tau Prolog
+Route comparison prototype combining A*, Yen's k-shortest-paths and declarative Prolog rules, so route recommendations stay deterministic and inspectable. [Live demo](https://urban-navigator.vercel.app)
+
+**[admon-c4373](https://github.com/gibran564/admon-c4373)** — Next.js, TypeScript, Firebase
+Course portal with an in-browser SQL playground and progress tracking, built for a database administration course. [Live demo](https://admon-c4373.vercel.app)
+
+### Current focus
+
+Publishing my agent tooling work — a Model Context Protocol server and a retrieval-augmented legal research system — and adding CI to my full-stack projects.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/christian-gibran-e-7aa98ba6) · cegibran@gmail.com
